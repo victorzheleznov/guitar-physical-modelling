@@ -2,7 +2,7 @@
 
 This repository contains two scripts:
 1. `ks_acoustic_guitar.m` — acoustic guitar synthesis using Karplus-Strong algorithm.
-3. `fdtd_acoustic_guitar.m` — acoustic guitar synthesis using finite difference method (including string collisions with fretboard and finger).
+2. `fdtd_acoustic_guitar.m` — acoustic guitar synthesis using finite difference method (including string collisions with fretboard and finger).
 
 Since simulation times for finite difference method can be long, two demo recordings are included:
 1. `fdtd_acoustic_guitar_open_strings.wav` — six open strings are exited by a pluck of increasing amplitude (in the end you can hear string collisions with fretboard).
